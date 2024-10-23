@@ -32,3 +32,4 @@ sequelize.sync().then(() => {
 // sequelize.sync(); // solo crea las tablas. usar para produccion
 // sequelize.sync({ alter: true }); //actuualiza tabla cualquier cambio sin afectar los registros
 // sequelize.sync({force:true}) // elimina de nuevo las tablas y registros y la vuelve a crear
+// actualizando el fichero desde mi pc subiendolo a github
