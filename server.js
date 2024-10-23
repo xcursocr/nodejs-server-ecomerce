@@ -19,6 +19,7 @@ app.use(cookieParser());
 app.use("/api", router);
 
 const PORT = 5000 || process.env.PORT;
+// actualizando fichero desde github
 
 //database connection
 // { alter: true }
